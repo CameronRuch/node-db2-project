@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "express": "^4.17.3",
-    "knex": "^1.0.3",
+    "knex": "^0.95.13",
     "sqlite3": "^5.0.4",
     "vin-validator": "^1.0.0"
   },
